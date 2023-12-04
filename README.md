@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔥 Frontend Developer passionate about building beautiful UI's and amazing websites
+- 🔥 Passionate about crafting stunning web experiences and creating seamless frontend designs.
 
 - 🌱 I’m currently learning React, Node.js
 
-- 🔭 I’m available for work
+<!-- - 🔭 I’m available for work  -->
 
 
 Portfolio: Coming Soon!
