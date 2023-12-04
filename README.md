@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React
 
-- 🔭 I’m currently working on some challanges from <a href="">FrontendMentor</a>
+- 🔭 I’m currently working on some challanges from <a href="https://www.frontendmentor.io/challenges">FrontendMentor</a>
   
 
 <!-- - Portfolio: <a href="https://alighorbannia.com" target="_blank">https://alighorbannia.com</a> -->
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
   <img align="center" alt="wellington-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="wellington-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="wellington-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  
 <!--   <img align="center" alt="wellington-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  -->
   <!--   <img align="center" alt="wellington-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
@@ -50,9 +51,9 @@ Here are some ideas to get you started:
 
   <!--   <img align="center" alt="wellington-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
    -->
+
 </div>
 
-<br><br>
 <!--
 <div align="center">
   <a href="https://github.com/ali-ghorbannia">
